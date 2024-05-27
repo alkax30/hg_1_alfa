@@ -2,4 +2,4 @@
 
 Pedro Blanco es Alfa de Maracay
 
-Andres Castillo es Charlie de Caracas
+Andres Castillo es Bravo de Caracas
